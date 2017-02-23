@@ -2,6 +2,6 @@
 
 ### Python: Jupyter Notebook, Spyder vs [PyCharm](https://www.jetbrains.com/pycharm/) ([student account](https://www.jetbrains.com/student/))
 
-### PML Ch. 1
+### __PML__ Ch. 1
 
-### Slides: Vector / Matrix convention, Linear Regression (ISRL Ch. 3)
+### Slides: Vector and Matrix Conventions, Linear Regression (__ISLR__ Ch. 3)
