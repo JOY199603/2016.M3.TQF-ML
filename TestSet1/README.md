@@ -7,7 +7,7 @@ a classifiers which can tell good (above-average) vs bad (below-average) wine. Y
 
 Not surprisingly, this data set was already analyised by many others. It is absolutely OK to read them first.
 
-* PennState course: [link](https://onlinecourses.science.psu.edu/stat857/node/223
+* PennState course: [link](https://onlinecourses.science.psu.edu/stat857/node/223)
 * Garry Malloy's [website](http://rstudio-pubs-static.s3.amazonaws.com/175762_83cf2d7b322c4c63bf9ba2487b79e77e.html)
 
 HW will be evaluated at several states of progress. The first evaluation is by next Monday (3/20)
