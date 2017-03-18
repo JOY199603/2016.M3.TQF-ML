@@ -94,38 +94,6 @@ def factor_entropy_list(dataset):
 
         
 
-rawdata=Getdata('/Users/longxiaoyi/Desktop/123.txt')
-splited_data=Splitfactor(rawdata)
-Total_entropy=Wholeshang(rawdata)
-Factor_entropy_list=factor_entropy_list(splited_data)
-
-
-
-a=splited_data[1]
-b=splited_data[-1]
-for i in range(len(a)):
-    a[i]=float(a[i])
-for i in range(len(b)):
-    b[i]=float(b[i])
-a=a.reshape(-1,1)
-b=b.reshape(-1,1)
-    
-
-from sklearn import linear_model
-import matplotlib.pyplot as plt
-
-regr = linear_model.LinearRegression()
-regr.fit(a, b)
-
-c,d = regr.coef_, regr.intercept_   
-        
-plt.scatter(a,b,color='blue')
-#plt.plot(a,b,color='red', linewidth=1)
-
-plt.show()       
-        
-
-
     
 
 
