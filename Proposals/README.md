@@ -10,3 +10,4 @@
 * Luqi Ye(叶路奇)：[Chinese-Stock-High-Bonus-Share-Prediction](https://github.com/goodgoodye/2016.M3.TQF-ML.Chinese-Stock-High-Bonus-Share-Prediction)
 * Ming Yin(印明): [Handwritten digit recognition](https://github.com/YMBUAA/2016.M3.TQF-ML.Handwritten-digit-recognition)
 * Weihang Lian(连伟航)：[Fund Performance Attribution and Estimation](https://github.com/1501213456/2016.M3.TQF-ML.FundPerformanceAttribution)
+* Tianhang Yao(姚天航): [2016.M3.TQF-ML.Curry-Shot-Analysis](https://github.com/AlYao2017/2016.M3.TQF-ML.Curry-Shot-Analysis)
