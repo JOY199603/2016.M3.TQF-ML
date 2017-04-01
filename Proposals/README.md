@@ -11,3 +11,4 @@
 * Ming Yin (印明): [Handwritten digit recognition](https://github.com/YMBUAA/2016.M3.TQF-ML.Handwritten-digit-recognition)
 * Weihang Lian (连伟航): [Fund performance attribution and estimation](https://github.com/1501213456/2016.M3.TQF-ML.FundPerformanceAttribution)
 * Tianhang Yao (姚天航): [Stephen Curry's shot analysis](https://github.com/AlYao2017/2016.M3.TQF-ML.Curry-Shot-Analysis)
+* Michal Topinka: [Loan Default Prediction](https://github.com/mitopi001/2016.M3.TQF-ML.Loan-Default-Prediction)
