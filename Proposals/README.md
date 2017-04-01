@@ -8,3 +8,4 @@
 * Giuseppe Cavallaro:[Credit card fraudolent transactions](https://github.com/GiuseppeCavallaro/2016.M3.TQF-ML.Credit.Card.Fraud)
 * Angelina(刘晨茹)：[Recommend Commodity system](https://github.com/LiuChenru/2016.M3.TQF-ML.Commodity1)
 * Luqi Ye(叶路奇)：[Chinese-Stock-High-Bonus-Share-Prediction](https://github.com/goodgoodye/2016.M3.TQF-ML.Chinese-Stock-High-Bonus-Share-Prediction)
+* Ming Yin(印明): [Handwritten digit recognition](https://github.com/YMBUAA/2016.M3.TQF-ML.Handwritten-digit-recognition)
