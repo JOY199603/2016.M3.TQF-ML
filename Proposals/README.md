@@ -14,3 +14,4 @@
 * Michal Topinka: [Loan Default Prediction](https://github.com/mitopi001/2016.M3.TQF-ML.Loan-Default-Prediction)
 * Wang Yu (汪雨）：[Hotel review sentiment analysis](https://github.com/renee-wangyu/2016.M3.TQF-ML.HotelReviewSentiment)
 * Henry Kyle: [Predicting NZ kiwifruit yield](https://github.com/henrypku/2016.M3.TQF-ML.KiwifruitYield)
+* Kaiwen Zhou: [Boosting factors in stock market](https://github.com/kevin583475378/2016.M3.TQF-ML.Project)
