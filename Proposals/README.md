@@ -16,3 +16,4 @@
 * Henry Kyle: [Predicting NZ kiwifruit yield](https://github.com/henrypku/2016.M3.TQF-ML.KiwifruitYield)
 * Kaiwen Zhou: [Boosting factors in stock market](https://github.com/kevin583475378/2016.M3.TQF-ML.Project)
 * Yadong Ma: [Predicting alpha with RandomForest](https://github.com/YadongMa/2016.M3.TQF-ML.RandomForest_FactorModel)
+* Long Shuyi (龙书翼）: [Find efficient factors and predict stocks' return](https://github.com/a1024761/2016.M3.TQF-stock-return-prediction)
