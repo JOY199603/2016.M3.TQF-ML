@@ -1,6 +1,6 @@
 # Topics in Quantitative Finance: Machine Learning for Finance (2016-17 M3)
 
-### Lecture note: [Link](Lectures/Notes TFQ.pdf)
+### Lecture note: [Link](Lectures/Notes%20TFQ.pdf)
 
 ### Project proposal on 3/27 (Monday). 
 Please upload a short writeup of your project proposal. Eash student will present the proposal in Monday's class (about 5 minutes).
