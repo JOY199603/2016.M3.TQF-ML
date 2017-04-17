@@ -15,6 +15,6 @@
 * Wang Yu (汪雨）：[Hotel review sentiment analysis](https://github.com/renee-wangyu/2016.M3.TQF-ML.HotelReviewSentiment)
 * Henry Kyle: [Predicting NZ kiwifruit yield](https://github.com/henrypku/2016.M3.TQF-ML.KiwifruitYield)
 * Kaiwen Zhou: [Boosting factors in stock market](https://github.com/kevin583475378/2016.M3.TQF-ML.Project)
-* Yadong Ma: [Predicting alpha with RandomForest](https://github.com/YadongMa/2016.M3.TQF-ML.RandomForest_FactorModel)
+* Yadong Ma(马亚东): [Predicting alpha with MachineLearning](https://github.com/YadongMa/2016.M3.TQF-ML.RandomForest_FactorModel)
 * Long Shuyi (龙书翼）: [Find efficient factors and predict stocks' return](https://github.com/a1024761/2016.M3.TQF-stock-return-prediction)
 * Fu Lucheng (扶禄城): [Stock price prediction by multi factor model](https://github.com/1601213521/2016.M3.TQF-ML.relative-stock-price-prediction-by-multi-factor-model)
