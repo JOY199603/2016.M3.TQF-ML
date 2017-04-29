@@ -24,7 +24,7 @@ Please upload a short writeup of your project proposal. Eash student will presen
 
 * Ming Yin (印明): [Handwritten digit recognition](https://github.com/YMBUAA/2016.M3.TQF-ML.Handwritten-digit-recognition)
 * Yifan Ding (丁一凡): [Bryant Kobe's shot analysis](https://github.com/IvonDing/2016.M3.TQF-ML.Kobe_Shot_Selection)
-* Henry Kyle: [Predicting NZ kiwifruit yield](https://github.com/henrypku/2016.M3.TQF-ML.KiwifruitYield)
+* Henry Kyle: [Predicting House Prices](https://github.com/henrypku/2016.M3.TQF-ML.HousePrices)
 * Wang Yu (汪雨): [Hotel review sentiment analysis](https://github.com/renee-wangyu/2016.M3.TQF-ML.HotelReviewSentiment)
 * Lipeng YU (余力鹏): [Forest fire predictoin](https://github.com/yulipeng0508/2016.M3.TQF-ML.ForestFiresPrediction)
 * Erdi Tac: [News keywords clustering](https://github.com/erditacPHBS/2016.M3.TQF-ML.Keyword.Clustering)
