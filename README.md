@@ -19,7 +19,7 @@ Please upload a short writeup of your project proposal. Eash student will presen
 * Zhiyun CHEN (陈之昀): [HMM for stock market](https://github.com/chenzhiyunacg/2016.M3.TQF-ML.hmmPrediction)
 * Fu Lucheng (扶禄城): [Stock price prediction by multi factor model](https://github.com/1601213521/2016.M3.TQF-ML.relative-stock-price-prediction-by-multi-factor-model)
 * Weihang Lian (连伟航): [Fund performance attribution and estimation](https://github.com/1501213456/2016.M3.TQF-ML.FundPerformanceAttribution)
-* Yadong Ma: [Predicting alpha with RandomForest](https://github.com/YadongMa/2016.M3.TQF-ML.RandomForest_FactorModel)
+* Yadong Ma (马亚东): [Predicting alpha with RandomForest](https://github.com/YadongMa/2016.M3.TQF-ML.RandomForest_FactorModel)
 * Luqi Ye (叶路奇): [Prediction of high bonus shares in Chinese stock market](https://github.com/goodgoodye/2016.M3.TQF-ML.Chinese-Stock-High-Bonus-Share-Prediction)
 
 * Ming Yin (印明): [Handwritten digit recognition](https://github.com/YMBUAA/2016.M3.TQF-ML.Handwritten-digit-recognition)
